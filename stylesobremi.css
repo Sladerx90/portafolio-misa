@@ -1,0 +1,61 @@
+body{
+    background-image: url("img/fondo-hexagonal-oscuro-color-degradado_79603-1409.avif");
+    background-size: 100%;
+ }
+span{
+    color: white;
+}
+h2{
+    color: white;
+}
+.comienzo{
+    color: white;
+
+}
+.pepe{
+    border-style: double;
+    border-color: white;
+    border-radius: 30px;
+    border-width: 10px;
+    background-color: gray;
+    background-size: 100%; 
+    background-repeat: no-repeat;
+
+}
+.quemegusta{
+    text-align: center;
+    color: white;
+}
+.quemegusta2{
+    color: white;
+    font-size: 14px;
+}
+.comosoy{
+    text-align: center;
+    color: white;
+ 
+}
+.comosoy2{
+    color: white;
+    font-size: 14px;
+}
+.futuro{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.futuro2{
+    color: white;
+    font-size: 14px;
+}
+.skills{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+ 
+}
+.skills2{
+    color: white;
+    font-size: 14px;
+}
+

@@ -1,0 +1,43 @@
+body{
+    background: #0d0808;
+background: linear-gradient(90deg, rgba(13, 8, 8, 1) 0%, rgba(99, 97, 97, 1) 50%, rgba(43, 43, 43, 1) 100%);
+}
+span{
+    color: white
+}
+hr{
+    color: white;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: white
+}
+h2{
+    text-align: center;
+    color: white
+}
+p{
+    text-align: center;
+    color: white;
+}
+.tiktak{
+    border-style: solid;
+    border-color: white;
+    border-radius: 50px;
+    border-width: 20px;
+}
+.Dibujazo{
+        margin-left: 200px;
+        border-style: solid;
+        border-color: white;
+        border-radius: 50px;
+        border-width: 20px;   
+}
+.pinponMM{
+    margin-left: 200px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 50px;
+    border-width: 20px;   
+}
