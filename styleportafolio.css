@@ -1,17 +1,24 @@
 body{
     background: #0d0808;
 background: linear-gradient(90deg, rgba(13, 8, 8, 1) 0%, rgba(99, 97, 97, 1) 50%, rgba(43, 43, 43, 1) 100%);
+    font-family: 'Arial', sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 span{
     color: white
 }
 hr{
     color: white;
+
 }
 h1{
     font-size: 50px;
     text-align: center;
     color: white
+
 }
 h2{
     text-align: center;
